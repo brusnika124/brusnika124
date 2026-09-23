@@ -1,4 +1,6 @@
-I am a Data Analyst with practical experience in data processing, analysis, and automation.
+### Data Analyst | SQL | Python | PostgreSQL | Power BI
+
+I'm a Data Analyst with practical experience in data processing, analysis, and automation.
 
 In my current role as a Lead Engineer in the energy sector, I work with large datasets related to electricity metering. My work includes processing and analyzing data, comparing information across different databases, identifying discrepancies, and working with load profiles.
 
@@ -6,18 +8,22 @@ Automation is an important part of my work. I develop Python-based tools for dat
 
 I use SQL and PostgreSQL for data analysis and processing, and work with AI agents to automate tasks and improve technical workflows.
 
-**Technical Skills**
+### 🛠️ Tech Stack
 
-SQL · PostgreSQL · Python · Pandas · Power BI · Excel · VBA · DBeaver
+- SQL / PostgreSQL
+- Python / Pandas
+- Power BI
+- Excel / VBA
+- DBeaver
 
-**Education**
+### 🎓 Education
 
-Bachelor's degree in Mathematics and Applied Mathematics
+- Mathematics & Applied Mathematics
+- Radiophysics & Electronics
 
-Bachelor's degree in Radiophysics and Electronics
+### 📌 Currently
 
-**Currently**
-
-Developing my skills in Data Analytics, SQL, Python, PostgreSQL, and Power BI.
-
-Building data analysis and automation projects to strengthen my practical experience.
+- Developing my skills in Data Analytics and SQL
+- Building data analysis and automation projects
+- Exploring Python, PostgreSQL and Power BI
+- Working with AI agents to improve technical workflows
