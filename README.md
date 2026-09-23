@@ -1,16 +1,23 @@
-## Hi there 👋
+I am a Data Analyst with practical experience in data processing, analysis, and automation.
 
-<!--
-**brusnika124/brusnika124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my current role as a Lead Engineer in the energy sector, I work with large datasets related to electricity metering. My work includes processing and analyzing data, comparing information across different databases, identifying discrepancies, and working with load profiles.
 
-Here are some ideas to get you started:
+Automation is an important part of my work. I develop Python-based tools for data processing and data conversion and automate repetitive Excel workflows using VBA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use SQL and PostgreSQL for data analysis and processing, and work with AI agents to automate tasks and improve technical workflows.
+
+**Technical Skills**
+
+SQL · PostgreSQL · Python · Pandas · Power BI · Excel · VBA · DBeaver
+
+**Education**
+
+Bachelor's degree in Mathematics and Applied Mathematics
+
+Bachelor's degree in Radiophysics and Electronics
+
+**Currently**
+
+Developing my skills in Data Analytics, SQL, Python, PostgreSQL, and Power BI.
+
+Building data analysis and automation projects to strengthen my practical experience.
