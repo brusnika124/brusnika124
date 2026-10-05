@@ -1,4 +1,4 @@
-### Data Analyst | SQL | Python | PostgreSQL | Power BI
+### Data Analyst | SQL Developer | Python | PostgreSQL | Power BI
 
 Data Analyst with practical experience in data processing, analysis, and automation.
 
