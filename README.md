@@ -10,6 +10,10 @@ Data Analyst with practical experience in data processing, analysis, and automat
 - Excel / VBA
 - DBeaver
 - Git
+- Zabbix
+- Claude 
+- ModelSim
+- MatLab
 
 ## Education
 
