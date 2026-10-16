@@ -24,6 +24,7 @@ Data Analyst with practical experience in data processing, analysis, and automat
 
 - Building analytical pipelines with Python and SQL
 - Working with PostgreSQL and Power BI for data analysis and visualization
+- Monitoring systems with Zabbix
 - Using AI tools to support development and analytical workflows
 
 ## Projects
