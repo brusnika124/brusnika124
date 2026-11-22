@@ -1,19 +1,14 @@
-### Data Analyst | SQL Developer | Python | PostgreSQL | Power BI
+### SQL Developer | Python | PostgreSQL | Power BI
 
-Data Analyst with practical experience in data processing, analysis, and automation.
+
 
 ## Tech Stack
 
 - SQL / PostgreSQL
 - Python / Pandas
-- Power BI
-- Excel / VBA
-- DBeaver
 - Git
 - Zabbix
-- Claude 
-- ModelSim
-- MatLab
+- Claude
 
 ## Education
 
