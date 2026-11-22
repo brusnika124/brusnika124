@@ -21,11 +21,11 @@ Data Analyst with practical experience in data processing, analysis, and automat
 - Radiophysics & Electronics, Voronezh State University
 
 ## Currently
-
-- Building analytical pipelines with Python and SQL
-- Working with PostgreSQL and Power BI for data analysis and visualization
-- Monitoring systems with Zabbix
-- Using AI tools to support development and analytical workflows
+- Working with PostgreSQL: developing views, functions and triggers, designing table structures, and optimizing complex queries
+- Automating routine operations and reporting using Python and APIs
+- Configuring and maintaining monitoring systems for AMR (ASKUE) equipment using Zabbix
+- Developing Python-based parsers and data converters
+- Using AI-assisted development tools, including Codex and Claude
 
 ## Projects
 
